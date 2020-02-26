@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlaUI.Utilities", "FlaUI.Utilities\FlaUI.Utilities.csproj", "{2917D26C-CA84-48DD-844C-4BFE617F1A31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlaUI.Utilities.MSTest", "FlaUI.Utilities.MSTest\FlaUI.Utilities.MSTest.csproj", "{FBD1EC92-551D-47EC-AFD8-7947C2D1F614}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2917D26C-CA84-48DD-844C-4BFE617F1A31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2917D26C-CA84-48DD-844C-4BFE617F1A31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2917D26C-CA84-48DD-844C-4BFE617F1A31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2917D26C-CA84-48DD-844C-4BFE617F1A31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBD1EC92-551D-47EC-AFD8-7947C2D1F614}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBD1EC92-551D-47EC-AFD8-7947C2D1F614}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBD1EC92-551D-47EC-AFD8-7947C2D1F614}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBD1EC92-551D-47EC-AFD8-7947C2D1F614}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3CE665B5-4225-4DB8-8B50-C5D6909B23C1}
+	EndGlobalSection
+EndGlobal
